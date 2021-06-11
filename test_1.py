@@ -115,7 +115,7 @@ class rawToString:
 
 
 
-def convertor(choice_taken=1):
+def convertor():
 
     try:
         text=input("[Enter The Spoken English]:")
