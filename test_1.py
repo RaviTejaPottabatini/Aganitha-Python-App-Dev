@@ -1,8 +1,8 @@
 def get_rules():
     rules = {
             "General": {
-                            "C M": "CM",
-                            "P M": "PM",
+                            "H T M L": "HTML",
+                            "Triple A": "AAA",
                             "dollars":"$",
                             "dollar":"$"
                         },
